@@ -1,0 +1,26 @@
+.form_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px 15px;
+    background-color: #fff;
+}
+.form_header_left{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.form_name{
+    border: none;
+    outline: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 15px;
+    color: #202124;
+    width: 120px;
+}
+.form_header_icon{
+    color: #202124;
+    
+}
